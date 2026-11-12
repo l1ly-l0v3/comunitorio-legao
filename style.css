@@ -1,16 +1,9 @@
 body {
     background-color: rgb(105, 176, 235);
 }
-.nome {
-    color:chocolate
-}
 
-.email {
-    color:blueviolet
-}
-
-.menssagem {
-    color:blue
+button {
+    color:aliceblue
 }
 
 
