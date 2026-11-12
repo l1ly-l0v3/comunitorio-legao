@@ -1,4 +1,6 @@
-
+body {
+    background-color: rgb(105, 176, 235);
+}
 .nome {
     color:chocolate
 }
